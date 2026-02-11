@@ -246,9 +246,6 @@ MIT License - feel free to use this project for your own purposes.
 
 ## 🔮 Roadmap
 
-- [ ] Complete User Page implementation
-- [ ] Complete Admin Page implementation
-- [ ] Complete Operator Page implementation
 - [ ] Add transaction history
 - [ ] Add vault analytics
 - [ ] Add price charts
